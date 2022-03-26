@@ -1,5 +1,5 @@
 ### Hi i'm Ciro,Web developer 👋
-[<button>Swup</button>]
+[![ciro-pastore - badge-generator](https://img.shields.io/static/v1?label=ciro-pastore&message=badge-generator&color=white&logo=github)](https://github.com/ciro-pastore/badge-generator "Go to GitHub repo")
 <!--
 **ciro-pastore/ciro-pastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
