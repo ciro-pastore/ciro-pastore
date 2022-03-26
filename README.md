@@ -2,8 +2,8 @@
 [![ciro-pastore - badge-generator](https://img.shields.io/static/v1?label=ciro-pastore&message=badge-generator&color=white&logo=github)](https://github.com/ciro-pastore/badge-generator "Go to GitHub repo")
 
 ## Tecnologie usate
-  <img align="left" alt="swup" width="25px" src="https://swup.js.org/assets/images/swup-logo-white.svg" />
-    <img align="left" alt="gsap" width="25px" src="https://greensock.com/uploads/set_resources_5/84c1e40ea0e759e3f1505eb1788ddf3c_greensock-logo.svg" />
+  <img align="left" alt="swup" width="100px" src="https://swup.js.org/assets/images/swup-logo-white.svg" />
+    <img align="left" alt="gsap" width="100px" src="https://greensock.com/uploads/set_resources_5/84c1e40ea0e759e3f1505eb1788ddf3c_greensock-logo.svg" />
 
 <!--
 **ciro-pastore/ciro-pastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
