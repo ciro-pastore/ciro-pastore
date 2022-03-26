@@ -1,7 +1,7 @@
 ### Hi i'm Ciro,Web developer 👋
 [![ciro-pastore - badge-generator](https://img.shields.io/static/v1?label=ciro-pastore&message=badge-generator&color=white&logo=github)](https://github.com/ciro-pastore/badge-generator "Go to GitHub repo")
 
-##Tecnologie usate
+## Tecnologie usate
   <img align="left" alt="swup" width="25px" src="https://swup.js.org/assets/images/swup-logo-white.svg" />
 
 <!--
