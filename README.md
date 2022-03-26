@@ -1,5 +1,5 @@
 ### Hi i'm Ciro,Web developer 👋
-[![ciro-pastore](https://img.shields.io/static/v1?label=ciro-pastore&logo=github)]
+[![ciro-pastore](https://img.shields.io/static/v1?label=ciro-pastore)]
 ## Tecnologie usate
   <img align="left" alt="swup" width="100px" src="https://swup.js.org/assets/images/swup-logo-white.svg" />
     <img align="left" alt="gsap" width="100px" src="https://greensock.com/uploads/set_resources_5/84c1e40ea0e759e3f1505eb1788ddf3c_greensock-logo.svg" />
