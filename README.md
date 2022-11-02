@@ -4,12 +4,12 @@ Hi 👋 My name is Ciro Pastore
 Web Developer
 -------------
 
-👨‍💻 Web Developer
-✍️ Custom website for wonderful User Experience(UX)
-🔥 UX/UI Designer
-🔳 Portfolio in website
-💼 DM for project work
-📩 Info in DM
+*👨‍💻 Web Developer
+*✍️ Custom website for wonderful User Experience(UX)
+*🔥 UX/UI Designer
+*🔳 Portfolio in website
+*💼 DM for project work
+*📩 Info in DM
 
 <a href="https://www.github.com/ciro-pastore" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ciro-pastore?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
