@@ -21,7 +21,8 @@ Web Developer
 
 📩 Info in DM
 
-
+* 🖥️  See my portfolio at [Portfolio](http://ciropastore.it/portfolio)
+* ✉️  You can contact me at [info@ciropastore.it](mailto:info@ciropastore.it)
 
 <a href="https://www.github.com/ciro-pastore" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ciro-pastore?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
